@@ -3,7 +3,7 @@
 [水印包下载](https://pan.baidu.com/s/168mQ-hGTKaOhOqZ3P8Q4gg) （19.10.1更新 v1.8）<br/>
 >10月1日 小米Mixα、vivo NEX3 5G、realme x2<br/><br/>
 >9月25日 小米9Pro5G<br/><br/>
->9月22日 华为Mate30Pro<br/><br/><br/>
+>9月22日 华为Mate30Pro
 # 配置文件说明
 配置文件为在水印同目录下的config.txt，用于定义水印的位置、大小，没有的话则按APP默认。该文件可以自行编辑，其中：<br/>
 >name:机型名称，目前没啥用，可以乱改<br/><br/>

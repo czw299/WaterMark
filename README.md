@@ -1,10 +1,10 @@
 # 水印大法资源
-
+[水印大法最新版](https://www.coolapk.com/apk/177363) （V2.2.0.0）<br/>
 [水印包下载](https://pan.baidu.com/s/168mQ-hGTKaOhOqZ3P8Q4gg) （19.10.1更新 v1.8）<br/>
 10月1日 小米Mixα、vivo NEX3 5G、realme x2<br/>
 9月25日 小米9Pro5G<br/>
-9月22日 华为Mate30Pro25号更新小米9Pro5G<br/><br/><br/>
-
+9月22日 华为Mate30Pro<br/><br/>
+# 配置文件说明
 配置文件为在水印同目录下的config.txt，可以自行编辑，其中：<br/>
 >name:机型名称，目前没啥用，可以乱改<br/>
 >filename:水印文件名（带扩展名）<br/>

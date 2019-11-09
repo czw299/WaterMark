@@ -1,5 +1,5 @@
 # 水印大法资源
-[水印大法最新版下载](https://www.coolapk.com/apk/177363) （V2.2.0.0 酷安）<br/>
+[水印大法最新版下载](https://www.coolapk.com/apk/177363) （V2.2.0.1 酷安）<br/>
 [水印包下载](https://pan.baidu.com/s/1OoTxgDwt4hA1spL8Sy3KzQ) （19.11.9更新 v1.9 百度网盘）<br/>
 >11月9日 小米CC9Pro（自拍、108MP、AI 三款）、红米Note8Pro（AI）、OPPO Reno ACE、魅族16T<br/><br/>
 >10月1日 小米Mixα、vivo NEX3 5G、realme x2<br/><br/>
